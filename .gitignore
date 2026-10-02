@@ -1,0 +1,26 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+node_modules/
+dist/
+build/
+.env
+bd.sqlite
+db.sqlite-journal
+*.db
+
+npm-debug.log*
+yarn-error.log*
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
